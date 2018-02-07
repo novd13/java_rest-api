@@ -2,7 +2,7 @@
 
 Cílem zadaní je implementovat jednoduchou micro-service, která se má starat o user managemant. Draft aplikace používá spring-boot.
 
-Aplikace by měla splňoat minimálně tyto požadavky:
+##### Aplikace by měla splňoat minimálně tyto požadavky:
   - basic authorizace s uživately uloženými v dtb (stačí když použijete nějakou in-memory databázi)
   - implementovat metody pro CRUD oprerace nad uživatelem
   - implementovat načtení listu uživatelů, tak aby bylo defaultní sortování podle příjmení uživatele
@@ -10,11 +10,11 @@ Aplikace by měla splňoat minimálně tyto požadavky:
   - získání listu uživatelů a detail uživatele bude možné získat bez authorizace
   - vytváření, update a mazaní pouze pro přihlášené uživatele (role řešit nemusíte)
   
-Funkcionalita, která je jako bonus:
+##### Funkcionalita, která je jako bonus:
  - implementovat uživatelské role (jeden uživatel může mít více rolí)
  - upravit kód, tak aby uživatele mohl vytvářet uživatele pouze uživatel s rolí CREATE_USERS, upravovat s rolí UPDATE_USERS, a mazat s rolí DELETE_USERS.
  
- ### Pár tipů k hodnocení implementace
+ #### Pár tipů k hodnocení implementace
  - první kritérium se funkčnost
  - velký duraz bude kladen na čistotu kódu a správný objektový a archtektonický návrh (tří vrstvá architektura)
  - správné použití HTTP metod
