@@ -18,6 +18,7 @@ Cílem zadaní je implementovat jednoduchou micro-service, která se má starat 
  - první kritérium se funkčnost
  - velký duraz bude kladen na čistotu kódu a správný objektový a archtektonický návrh (tří vrstvá architektura)
  - správné použití HTTP metod
+ - jUnit testy, případně integrační testy
  
 #### Odevzdání kódu
  - forkem si vztvořte vlastní repozitář
