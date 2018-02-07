@@ -14,7 +14,7 @@ Cílem zadaní je implementovat jednoduchou micro-service, která se má starat 
  - implementovat uživatelské role (jeden uživatel může mít více rolí)
  - upravit kód, tak aby uživatele mohl vytvářet uživatele pouze uživatel s rolí CREATE_USERS, upravovat s rolí UPDATE_USERS, a mazat s rolí DELETE_USERS.
  
- #### Pár tipů k hodnocení implementace
+ ### Pár tipů k hodnocení implementace
  - první kritérium se funkčnost
  - velký duraz bude kladen na čistotu kódu a správný objektový a archtektonický návrh (tří vrstvá architektura)
  - správné použití HTTP metod
