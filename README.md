@@ -18,3 +18,7 @@ Cílem zadaní je implementovat jednoduchou micro-service, která se má starat 
  - první kritérium se funkčnost
  - velký duraz bude kladen na čistotu kódu a správný objektový a archtektonický návrh (tří vrstvá architektura)
  - správné použití HTTP metod
+ 
+#### Odevzdání kódu
+ - forkem si vztvořte vlastní repozitář
+ - až budete mít hotovo stačí vztvoři pull request na repozitář se zadaním.
