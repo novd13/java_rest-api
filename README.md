@@ -22,4 +22,4 @@ Cílem zadaní je implementovat jednoduchou micro-service, která se má starat 
  
 #### Odevzdání kódu
  - forkem si vztvořte vlastní repozitář
- - až budete mít hotovo stačí vztvoři pull request na repozitář se zadaním.
+ - až budete mít hotovo stačí vytvořit pull request na repozitář se zadaním.
