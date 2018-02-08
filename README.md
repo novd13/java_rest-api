@@ -4,7 +4,7 @@ Cílem zadaní je implementovat jednoduchou micro-service, která se má starat 
 
 ##### Aplikace by měla splňoat minimálně tyto požadavky:
   - basic authorizace s uživately uloženými v dtb (stačí když použijete nějakou in-memory databázi)
-  - implementovat metody pro CRUD oprerace nad uživatelem
+  - implementovat metody pro CRUD operace nad uživatelem
   - implementovat načtení listu uživatelů, tak aby bylo defaultní sortování podle příjmení uživatele
   - pro vytvoření uživatele jsou potřeba tyto jméno, příjmení, email, telefon, heslo. Dále budou vyplněné systémové údaje datum vytvoření a id uživatele, který záznam vytvořil
   - získání listu uživatelů a detail uživatele bude možné získat bez authorizace
