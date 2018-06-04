@@ -21,5 +21,5 @@ Cílem zadaní je implementovat jednoduchou micro-service, která se má starat 
  - jUnit testy, případně integrační testy
  
 #### Odevzdání kódu
- - forkem si vztvořte vlastní repozitář
+ - forkem si vytvořte vlastní repozitář
  - až budete mít hotovo stačí vytvořit pull request na repozitář se zadaním.
