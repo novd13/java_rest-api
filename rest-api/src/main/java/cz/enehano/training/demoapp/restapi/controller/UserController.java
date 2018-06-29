@@ -14,11 +14,11 @@ public class UserController {
         throw new UnsupportedOperationException("Method " + this.getClass().getEnclosingMethod().getName() + " is not implemented yet.");
     }
 
-    public UserDto createUser(UserDto dto, Long id) {
+    public UserDto createUser(UserDto dto) {
         throw new UnsupportedOperationException("Method " + this.getClass().getEnclosingMethod().getName() + " is not implemented yet.");
     }
 
-    public UserDto updateUser(Long id) {
+    public UserDto updateUser(UserDto dto, ong id) {
         throw new UnsupportedOperationException("Method " + this.getClass().getEnclosingMethod().getName() + " is not implemented yet.");
     }
 
